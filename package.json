@@ -1,0 +1,13 @@
+{
+  "name": "universal-express-http-context",
+  "version": "1.0.0",
+  "description": "Get and set request-scoped context anywhere in a universal manner.",
+  "main": "main.js",
+  "browser": "browser.js",
+  "repository": "https://github.com/willdurand/universal-express-http-context",
+  "author": "William Durand <will+git@drnd.me>",
+  "license": "MPL-2.0",
+  "dependencies": {
+    "express-http-context": "^1.1.0"
+  }
+}
