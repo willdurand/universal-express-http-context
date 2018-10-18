@@ -1,6 +1,6 @@
 {
   "name": "universal-express-http-context",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Get and set request-scoped context anywhere in a universal manner.",
   "main": "main.js",
   "browser": "browser.js",
